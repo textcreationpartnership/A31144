@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Company of White-Paper-Makers humbly presented to the consideration of this present Parliament.</title>
+            <author>Company of White Paper Makers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31144</idno>
+            <idno type="STC">Wing C1052</idno>
+            <idno type="STC">ESTC R36279</idno>
+            <idno type="EEBO-CITATION">15626135</idno>
+            <idno type="OCLC">ocm 15626135</idno>
+            <idno type="VID">104252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Company of White-Paper-Makers humbly presented to the consideration of this present Parliament.</title>
+                  <author>Company of White Paper Makers (London, England)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paper industry --  England.</term>
+               <term>Stock warrants.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104252:1"/>
+            <!-- PDF PAGE 37 -->
+            <head>The CASE of the Company of <hi>WHITE-PAPER-Makers:</hi> Humbly preſented to the Conſideration of this preſent Parliament.</head>
+            <p>THE Manufacture of <hi>Writing</hi> and <hi>Printing-Paper</hi> being ſta<g ref="char:EOLhyphen"/>bliſhed in <hi>England,</hi> will employ many Thouſands of Poor Peo<g ref="char:EOLhyphen"/>ple, and keep vaſt Sums of Money in the Nation, which have been ſent over Yearly into <hi>France,</hi> to pay for the ſaid Com<g ref="char:EOLhyphen"/>modity; and (if encouraged) may in Time be ſo far advan<g ref="char:EOLhyphen"/>ced, as not only to prove a <hi>Staple-Manufacture</hi> here at Home, but alſo be ſufficient to furniſh our Engliſh Plantations, and other Places Abroad who now Trade with <hi>France</hi> for the ſame.</p>
+            <p>His late Majeſty being fully convinc'd thereof, granted divers Letters-Patents to ſeveral Perſons, for their reſpective Inventions, of making <hi>White-Writing,</hi> and <hi>Printing-Paper:</hi> And the ſeveral Patentees proceeding upon ſuch their In<g ref="char:EOLhyphen"/>ventions, which were for making but one and the ſame thing, tho by different Methods, found, that their Separate Intereſts, did but Undermine and Preju<g ref="char:EOLhyphen"/>dice each other, and threatned the Ruin of the Whole; not only by raiſing Workmens-Wages, and the Price of Materials, but by many other great In<g ref="char:EOLhyphen"/>conveniences, which being proved upon ſeveral Hearings, and Debates, before the late King, He, by the Advice of his Council, united the ſeparate Inte<g ref="char:EOLhyphen"/>reſts, and Incorporated them, by the Name of the <hi>Governor</hi> and <hi>Company</hi> of <hi>White-Paper-Makers;</hi> and granted them the <hi>ſole Power</hi> of making White-Wri<g ref="char:EOLhyphen"/>ting and Printing-Paper for Fourteen Years.</p>
+            <p>The Company having purchaſed, and erected divers Mills for the carrying on the ſaid Manufacture; and the <hi>French King</hi> having notice thereof, did com<g ref="char:EOLhyphen"/>mand his late Ambaſſador, <hi>Monſieur Berillon,</hi> to uſe his utmoſt Endeavours to ruin the Manufacture, who by himſelf, and others, with great Sums of Money, ſeduced and carried away the Companies Workmen from their Mills, and raiſed other very great Oppoſitions againſt them, to their Detriment and Expence of ſeveral Thouſands of Pounds, as was apparently proved before the late King in Council, and by a Trial at Bar in the Court of <hi>King's-Bench.</hi>
+            </p>
+            <p>Notwithſtanding all which, and many other Difficulties, the Company have perfectly ſet up the Manufacture, and make as good Paper, of all Sorts, as any is made in <hi>Europe:</hi> And tho by their Charter they might, with all humble ſub<g ref="char:EOLhyphen"/>miſſion, inſiſt (for their own Advantage) to keep the Manufacture ſolely to themſelves; yet the Company are fully reſolved, for the general Good, to eſta<g ref="char:EOLhyphen"/>bliſh the ſame in all parts of the Kingdom, in humble confidence of the Aſ<g ref="char:EOLhyphen"/>fiſtance and Encouragement they ſhall meet with from this preſent Parliament, in granting them ſuch an Act, for the enabling them to perform the ſame, as their great Wiſdom ſhall think fit, and do for that End make the following PROPOSALS.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:104252:2"/>
+               <!-- PDF PAGE 38 -->
+               <head>The <hi>COMPANIES</hi> PROPOSALS in order to <hi>SUBSCRIPTIONS.</hi>
+               </head>
+               <p>WHEREAS at a General Court of the <hi>Governour</hi> and <hi>Compa<g ref="char:EOLhyphen"/>ny of White-Paper-Makers,</hi> holden the 12th Day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1689, it was reſolved, That for the better carry<g ref="char:EOLhyphen"/>ing on, and the more effectual eſtabliſhing the Manufacture of <hi>White-writing</hi> and <hi>Printing-Paper,</hi> in all Parts of this Kingdom (in purſuance of <hi>Letters Patents</hi> granted to the ſaid <hi>Governour</hi> and <hi>Company</hi> by his late Majeſty) a conſiderable Fund of Money be raiſed; and that all Perſons whatſoever may have the like Benefit and Advantage with the preſent Members of the ſaid Company, who ſhall on or before the 25th day of <hi>March</hi> next, ſubſcribe upon the following Terms, Conditions and Articles, which are to be duly kept, and ſtrictly obſerved by all Per<g ref="char:EOLhyphen"/>ſons whatſoever, whether preſent Members or Subſcribers.</p>
+               <list>
+                  <item>1. The Companies Books ſhall lie open (during the time above limited) at the Houſe of Sir <hi>Francis Child,</hi> at <hi>Temple-Bar,</hi> and at the <hi>Companies Warehouſe</hi> in <hi>Abchurch-Lane</hi> in <hi>London,</hi> for all Subſcribers to enter their ſeveral Names and Subſcriptions.</item>
+                  <item>2. The Payment of the ſeveral and reſpective Sums ſubſcribed, ſhall be in four equal Payments, and paid to Sir <hi>Francis Child</hi> and <hi>Partners,</hi> at the ſeveral times hereafter mentioned, <hi>viz.</hi>
+                     <list>
+                        <item>One fourth Part, on or before the 3d day of <hi>April,</hi> 1690.</item>
+                        <item>One fourth Part, on or before the 3d day of <hi>July,</hi> 1690.</item>
+                        <item>One fourth Part, on or before the 3d day of <hi>October,</hi> 1690.</item>
+                        <item>One fourth Part, on or before the 3d day of <hi>January,</hi> 1690.</item>
+                     </list>
+                  </item>
+                  <item>3. If any Subſcriber do fail to pay the firſt Payment, at the Time and Place aforeſaid, his ſaid Subſcription ſhall be totally void.</item>
+                  <item>4. If any Subſcriber having paid the firſt Payment, ſhall fail to pay any of the following Payments, a Penalty of 2 <hi>l. per Cent.</hi> for each Month, ſhall be charged to his Debt on Account; until his ſaid Sub<g ref="char:EOLhyphen"/>ſcription ſhall be fully ſatisfied and paid, or until the whole Money by him before-paid, be thereby extinguiſhed; and further, he ſhall be in<g ref="char:EOLhyphen"/>capable to give any Vote at any <hi>General Court,</hi> or <hi>Court of Aſſiſtants,</hi> un<g ref="char:EOLhyphen"/>til he hath paid his Penalties and Subſcriptions.</item>
+                  <item>
+                     <pb n="3" facs="tcp:104252:2"/>
+                     <!-- PDF PAGE 38 -->
+5. That whereas the preſent Company conſiſts of four hundred Shares, at fifty pounds <hi>per</hi> Share, each Subſcriber is to have one Share (which is to be added to the ſaid four hundred Shares) for every fifty Pounds which he ſhall ſubſcribe.</item>
+                  <item>6. That every Subſcriber, having made his firſt Payment, ſhall have one Vote at any General Court for each fifty Pounds by him ſub<g ref="char:EOLhyphen"/>ſcribed, but no Member is to be choſen into the <hi>Court of Aſſiſtants,</hi> unleſs he be intereſted eight Shares at leaſt in the joint Stock of the ſaid Company.</item>
+                  <item>7. That ſo ſoon as the firſt Payment of the Subſcriptions, or the Ma<g ref="char:EOLhyphen"/>jor Part of the ſame ſhall be paid, a General Court of all the Mem<g ref="char:EOLhyphen"/>bers ſhall be ſummoned to chooſe ſuch Number of <hi>Aſſiſtants,</hi> from fifteen to five and twenty, as the ſaid General Court ſo aſſembled ſhall think fit; and the Day following another General Court ſhall meet for the chooſing a <hi>Governour</hi> and <hi>Deputy-Governour</hi> out of the ſaid <hi>Aſſiſtants,</hi> which <hi>Governour, Deputy-Governour,</hi> and <hi>Aſſiſtants</hi> ſo cho<g ref="char:EOLhyphen"/>ſen, or the Major Part of them aſſembled, are to be a <hi>Court of Aſſiſtants,</hi> who are to take care of the management of the ſaid Manufacture and joint Stock, and of all the Money that ſhall be received upon the Subſcriptions, and are to continue until the 24th day of <hi>June</hi> next following every ſuch Election, at which Time others are to be cho<g ref="char:EOLhyphen"/>ſen and elected in like manner for the Year enſuing.</item>
+                  <item>8. That the Stock and Dividends of each Member ſhall from time to time be obliged for ſuch Debts and Engagements as ſuch Member ſhall or may owe or be engaged in to the Company; and the <hi>Court of Aſſiſtants</hi> may and ſhall detain the ſame for the Benefit of the Company, till ſuch Debts and Engagements are fully paid and ſatisfied.</item>
+                  <item>9. That if any Perſon ſubſcribing, have either <hi>Paper-Mills, Corn-Mills,</hi> or <hi>Streams,</hi> (in Places which the <hi>Governour</hi> and <hi>Court of Aſſiſtants</hi> ſo to be choſen as aforeſaid, ſhall judg to be proper for the ſet<g ref="char:EOLhyphen"/>ting up the Manufacture;) the ſame ſhall be accepted of by the Com<g ref="char:EOLhyphen"/>pany, at ſuch value as they ſhall be appraiſed at by two Perſons to be indifferently choſen, one by the ſaid Court of Aſſiſtants, and the other by the Owners or Proprietors.</item>
+               </list>
+               <p>
+                  <pb n="4" facs="tcp:104252:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 39 -->
+VVE whoſe Names are here-unto ſubſcribed, do mutually Conſent and Agree, and do hereby, each for himſelf only, and for his own Act and Deed, and for his own Executors and Adminiſtrators, ſeverally, and not joindy, Covenant, Promiſe, and Agree, to and with the ſaid <hi>Governor</hi> and <hi>Company,</hi> and their Succeſ<g ref="char:EOLhyphen"/>ſors, to pay the reſpective Sums of Money, by us here<g ref="char:EOLhyphen"/>under ſeverally Subſcribed, to be employed, by God's Aſſiſtance, as a Stock in the <hi>Company</hi> of <hi>White-Paper-Makers,</hi> upon all and every the Terms, Conditions, Articles, Rules, and Penalties aforegoing. And we do ſeverally oblige our Selves, our Heirs, Executors, and Adminiſtrators, for each of our Selves, and not One for Another, unto the ſaid <hi>Governor</hi> and <hi>Company,</hi> and their Succeſſors, to pay to the ſaid Sir <hi>Francis Child</hi> and <hi>Partners,</hi> to and for the Uſe of the ſaid <hi>Governor</hi> and <hi>Company</hi> of <hi>White-Paper-Makers,</hi> to be employed in, and for the car<g ref="char:EOLhyphen"/>rying on the ſaid Manufacture, our ſaid ſeveral Sums of Money ſo by us Subſcribed, on the ſeveral reſpective Days, and in the ſeveral and reſpective Proportions, and in manner as aforeſaid.</p>
+               <closer>
+                  <dateline>In Witneſs whereof we have hereunto ſet our Hands and Seals, in <hi>London,</hi> 
+                     <date>this <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> day of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
